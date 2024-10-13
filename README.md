@@ -1,6 +1,6 @@
-# warda
+# PoMful
 
-A new Flutter project.
+This Flutter app enables seamless connectivity between Android devices and ESP32 microcontrollers, allowing users to connect to Wi-Fi networks and establish Bluetooth communication. 
 
 ## Getting Started
 
